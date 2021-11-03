@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="dt6Uo5" name="newTemplate" projectType="audioplug" useAppConfig="0"
-              displaySplashScreen="1" companyName="Vednt Kalbag" jucerFormatVersion="1">
-  <MAINGROUP id="gyXGxf" name="newTemplate">
+<JUCERPROJECT id="dt6Uo5" name="fivebandeq" projectType="audioplug" useAppConfig="0"
+              displaySplashScreen="1" companyName="Vedant Kalbag" jucerFormatVersion="1">
+  <MAINGROUP id="gyXGxf" name="fivebandeq">
     <GROUP id="{164B3EC1-F5C9-8F3C-1FC1-E30AC35A9DED}" name="Source">
       <FILE id="oQfOKt" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
